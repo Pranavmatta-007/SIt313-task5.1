@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.titlesection {
+    display: flex;
+    margin: 20px 0px;
+}
+
+
+.titlesection p {
+    margin: 0px 10px;
+    font-size: 3.2vh;
+}
+
+
+.titlesection input {
+    width: 96vw;
+    height: 3.6vh;
+}
+
+.problem {
+    font-size: 3.2vh;
+    margin: 0px 10px;
+}
+
+.problem .big {
+    width: 98.1vw;
+    margin: 5px 0px;
+    height: 50vh;
+}
+
+.problem .small {
+    width: 98.1vw;
+    margin: 5px 0px;
+}
+.btn{
+    display: flex;
+    place-content: flex-end;
+    margin-left: 20px;
+}
+.btn button{
+    background-color: #3498db;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}

@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Heading{
+    background-color: #a9a4a496;
+    height: 7vh;
+}
+.container{
+    margin: 20px 0px;
+}
+.container span{
+    font-size: 2.6vh;
+    margin: 0px 40px;
+}
+
+.container div{
+    display: inline-block;
+}
+
+.container div {
+    display: inline-block;
+}
+
+.body {
+    display: inline-block;
+}
+.body div{
+    margin: 0px 10px;
+}
+
+.body input{
+    margin: 0px 10px;
+}
